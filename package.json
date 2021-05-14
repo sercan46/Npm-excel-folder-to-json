@@ -1,0 +1,23 @@
+{
+  "name": "excel-folder-to-json",
+  "version": "1.1.4",
+  "description": "Converts excel folder data to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "json",
+    "exceltojson"
+  ],
+  "author": {
+    "name": "Sercan Ozbek",
+    "url": "http://www.sercanozbek.com",
+    "email": "chesercan@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "0.13.3"
+  }
+}
