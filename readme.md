@@ -17,3 +17,7 @@ import  excelFoldertoJson from 'excel-folder-to-json'
 The variable e here is the event we get from the input type folder, and Sheet1 is the information that we want to use the number one page.
 
 As a result, each row is sent to the array returned as an object.
+
+NPM Url;
+
+https://www.npmjs.com/package/excel-folder-to-json
